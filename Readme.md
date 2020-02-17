@@ -2,7 +2,6 @@
 ## Lab 1
 
 ### App Description
-`TODO://` Add app description
 
 This simple flashcard app is ask question and gives selectable 3 multi-choice option to answer.
 After that it can reset everything if you click on the screen. 
