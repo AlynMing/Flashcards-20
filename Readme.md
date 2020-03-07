@@ -1,14 +1,37 @@
+## Lab 2
+
+### App Description
+Flashcard app lab 2
+i did required section and first optional task.
+
+### App Walk-though
+
+<img src="YOUR_GIF_URL_HERE" width=200><br>
+
+
+Additional on lab 1 this updated flashcard app has new button which is lead to another screen. In new screen user can input their customized question and answer for updating main question and answer after that user can close page. If user didn't put any text on question and answer field app will give generic error or user can cancel creation screen. Original screen have edit button but right now it's not fully functional yet, I will update it pretty soon. 
+
+## Required
+- [ ] User can open the creation screen
+- [ ] User can cancel out of the creation screen
+- [ ] User can enter a new question and answer in the creation screen to then show it on the flashcard
+- [ ] Push code to GitHub
+## Optional
+- [ ] User gets an error if they try to create a new flashcard with no question or answer
+- [ ] User can edit existing flashcard
+- [ ] User can add multiple choice answers in the creation screen
 
 ## Lab 1
 
 ### App Description
+`TODO://` Add app description
 
 This simple flashcard app is ask question and gives selectable 3 multi-choice option to answer.
 After that it can reset everything if you click on the screen. 
 
 ### App Walk-though
 
-<img src=Flashcards.gif width=200><br>
+<img src=https://s3.amazonaws.com/img0.recordit.co/lj3Xgmk367.mp4?AWSAccessKeyId=AKIAUQ5RURZ7ND2T2B6I&Expires=1581935986&Signature=ADLDY9AutkK2Pe77Aq7CtkS90fE%3D width=200><br>
 
 
 ## Required
