@@ -6,7 +6,7 @@ i did required section and first optional task.
 
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="flashcardLab2.gif" width=200><br>
 
 
 Additional on lab 1 this updated flashcard app has new button which is lead to another screen. In new screen user can input their customized question and answer for updating main question and answer after that user can close page. If user didn't put any text on question and answer field app will give generic error or user can cancel creation screen. Original screen have edit button but right now it's not fully functional yet, I will update it pretty soon. 
