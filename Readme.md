@@ -31,8 +31,7 @@ After that it can reset everything if you click on the screen.
 
 ### App Walk-though
 
-<img src=https://s3.amazonaws.com/img0.recordit.co/lj3Xgmk367.mp4?AWSAccessKeyId=AKIAUQ5RURZ7ND2T2B6I&Expires=1581935986&Signature=ADLDY9AutkK2Pe77Aq7CtkS90fE%3D width=200><br>
-
+<img src="Flashcards.gif" width=200><br>
 
 ## Required
 - [ ] Create New Project in Xcode
