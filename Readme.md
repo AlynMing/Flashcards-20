@@ -6,7 +6,7 @@ This lab 3, my flashcard app browse through multiple flash cards also edit curre
 
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="Lab 3.gif" width=200><br>
 
 ## Required
 - [x] User can browse through multiple flashcards
