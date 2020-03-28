@@ -5,7 +5,7 @@ This Updated flashcard user can see app icon and app logo on the splash screen. 
 
 ### App Walk-though
 
-<img src="flashcardLab4" width=200><br>
+<img src="flashcardLab4.gif" width=200><br>
 
 ## Required
 - [x] User should see the app icon 
