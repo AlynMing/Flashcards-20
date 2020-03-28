@@ -1,11 +1,11 @@
 ## Lab 4
 
 ### App Description
-This Update user can see app icon and app logo on the splash screen. Also, when revealing the answer and question it has flipping animation. It has slide animation for when going next flashcard or goes back.
+This Updated flashcard user can see app icon and app logo on the splash screen. Also, when revealing the answer and question it has flipping animation. It has slide animation for when going next flashcard or goes back.
 
 ### App Walk-though
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="flashcardLab4" width=200><br>
 
 ## Required
 - [x] User should see the app icon 
